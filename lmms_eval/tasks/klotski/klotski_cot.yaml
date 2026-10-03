@@ -1,0 +1,6 @@
+include: klotski_base.yaml
+task: "klotski_cot"
+lmms_eval_specific_kwargs:
+  default:
+    klotski_prompt_mode: cot
+    klotski_image_root: ./data/klotski

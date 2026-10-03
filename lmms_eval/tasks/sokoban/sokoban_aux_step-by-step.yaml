@@ -1,0 +1,15 @@
+include: sokoban.yaml
+task: "sokoban_aux_step-by-step"
+
+generation_kwargs:
+  max_new_tokens: 8192
+  do_sample: false
+  temperature: 0.0
+  sokoban_step_by_step: true
+  sokoban_max_steps: 128
+  sokoban_save_images: true
+
+lmms_eval_specific_kwargs:
+  default:
+    sokoban_image_root: ./data/sokoban
+    sokoban_prompt_mode: aux_step_by_step

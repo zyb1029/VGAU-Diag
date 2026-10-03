@@ -1,0 +1,6 @@
+include: sokoban.yaml
+task: "sokoban_vision_reasoning"
+lmms_eval_specific_kwargs:
+  default:
+    sokoban_image_root: ./data/sokoban
+    sokoban_prompt_mode: vision_reasoning

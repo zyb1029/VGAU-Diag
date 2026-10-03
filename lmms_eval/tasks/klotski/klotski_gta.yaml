@@ -1,0 +1,6 @@
+include: klotski_base.yaml
+task: "klotski_gta"
+lmms_eval_specific_kwargs:
+  default:
+    klotski_image_root: ./data/klotski
+    klotski_prompt_mode: gta

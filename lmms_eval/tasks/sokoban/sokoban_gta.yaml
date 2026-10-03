@@ -1,0 +1,6 @@
+include: sokoban.yaml
+task: "sokoban_gta"
+lmms_eval_specific_kwargs:
+  default:
+    sokoban_image_root: ./data/sokoban
+    sokoban_prompt_mode: gta

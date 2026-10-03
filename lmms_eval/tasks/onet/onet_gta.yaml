@@ -1,0 +1,6 @@
+include: onet_cot.yaml
+task: "onet_gta"
+lmms_eval_specific_kwargs:
+  default:
+    onet_prompt_mode: gta
+    onet_image_root: ./data/onet

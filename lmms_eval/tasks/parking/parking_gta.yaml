@@ -1,0 +1,6 @@
+include: parking_cot.yaml
+task: "parking_gta"
+lmms_eval_specific_kwargs:
+  default:
+    parking_image_root: ./data/parking
+    parking_prompt_mode: gta

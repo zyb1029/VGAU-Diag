@@ -1,0 +1,15 @@
+include: path_base.yaml
+task: "path_step-by-step"
+
+generation_kwargs:
+  max_new_tokens: 8192
+  do_sample: false
+  temperature: 0.0
+  path_step_by_step: true
+  path_max_steps: 64
+  path_save_images: true
+
+lmms_eval_specific_kwargs:
+  default:
+    path_image_root: ./data/path
+    path_prompt_mode: step_by_step

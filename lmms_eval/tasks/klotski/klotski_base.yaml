@@ -1,0 +1,45 @@
+dataset_path: json
+dataset_kwargs:
+  data_files: ./data/klotski/dataset_manifest.json
+test_split: train
+output_type: generate_until
+
+doc_to_visual: !function utils.klotski_doc_to_visual
+doc_to_text: !function utils.klotski_doc_to_text
+doc_to_target: "solution"
+
+process_results: !function utils.klotski_process_results
+
+generation_kwargs:
+  max_new_tokens: 8192
+  do_sample: false
+  temperature: 0.0
+
+metric_list:
+  - metric: klotski_solved_easy
+    aggregation: !function utils.klotski_agg_solved_easy
+    higher_is_better: true
+  - metric: klotski_solved_middle
+    aggregation: !function utils.klotski_agg_solved_middle
+    higher_is_better: true
+  - metric: klotski_solved_hard
+    aggregation: !function utils.klotski_agg_solved_hard
+    higher_is_better: true
+  - metric: klotski_solved_overall
+    aggregation: !function utils.klotski_agg_solved_overall
+    higher_is_better: true
+  - metric: klotski_optimal_easy
+    aggregation: !function utils.klotski_agg_optimal_easy
+    higher_is_better: true
+  - metric: klotski_optimal_middle
+    aggregation: !function utils.klotski_agg_optimal_middle
+    higher_is_better: true
+  - metric: klotski_optimal_hard
+    aggregation: !function utils.klotski_agg_optimal_hard
+    higher_is_better: true
+  - metric: klotski_optimal_overall
+    aggregation: !function utils.klotski_agg_optimal_overall
+    higher_is_better: true
+
+metadata:
+  version: 2.0

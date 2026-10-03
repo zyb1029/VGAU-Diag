@@ -1,0 +1,58 @@
+dataset_path: json
+dataset_kwargs:
+  data_files: ./data/maze/maze100.jsonl
+task: "maze_aux_step-by-step"
+test_split: train
+output_type: generate_until
+
+doc_to_visual: !function utils.maze_doc_to_visual
+doc_to_text: !function utils.maze_doc_to_text
+doc_to_target: "steps"
+
+process_results: !function utils.maze_process_results
+process_docs: !function utils.maze_process_docs
+
+generation_kwargs:
+  max_new_tokens: 8192
+  do_sample: false
+  temperature: 0.0
+  maze_step_by_step: true
+  step_image_source: gt
+  maze_max_steps: 64
+  maze_save_images: true
+
+lmms_eval_specific_kwargs:
+  default:
+    maze_prompt_mode: aux_step_by_step
+    maze_image_root: ./data/maze
+
+metric_list:
+  - metric: maze_reach_any_easy
+    aggregation: !function utils.maze_agg_reach_any_easy
+    higher_is_better: true
+  - metric: maze_reach_any_middle
+    aggregation: !function utils.maze_agg_reach_any_middle
+    higher_is_better: true
+  - metric: maze_reach_any_hard
+    aggregation: !function utils.maze_agg_reach_any_hard
+    higher_is_better: true
+  - metric: maze_reach_any_overall
+    aggregation: !function utils.maze_agg_reach_any_overall
+    higher_is_better: true
+  - metric: maze_reach_optimal_easy
+    aggregation: !function utils.maze_agg_reach_optimal_easy
+    higher_is_better: true
+  - metric: maze_reach_optimal_middle
+    aggregation: !function utils.maze_agg_reach_optimal_middle
+    higher_is_better: true
+  - metric: maze_reach_optimal_hard
+    aggregation: !function utils.maze_agg_reach_optimal_hard
+    higher_is_better: true
+  - metric: maze_reach_optimal_overall
+    aggregation: !function utils.maze_agg_reach_optimal_overall
+    higher_is_better: true
+
+metadata:
+  version: 1.0
+  num_samples: 100
+  seed: 42

@@ -1,0 +1,8 @@
+include: klotski_base.yaml
+task: "klotski_step-by-step"
+generation_kwargs:
+  klotski_step_by_step: true
+lmms_eval_specific_kwargs:
+  default:
+    klotski_prompt_mode: step_by_step
+    klotski_image_root: ./data/klotski

@@ -1,0 +1,6 @@
+include: path_base.yaml
+task: "path_vision_reasoning"
+lmms_eval_specific_kwargs:
+  default:
+    path_image_root: ./data/path
+    path_prompt_mode: vision_reasoning

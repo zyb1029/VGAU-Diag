@@ -1,0 +1,3 @@
+include LICENSE
+recursive-include data *.json *.jsonl *.png
+recursive-include lmms_eval/tasks *.yaml *.yml

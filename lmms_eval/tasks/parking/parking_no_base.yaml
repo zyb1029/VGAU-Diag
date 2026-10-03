@@ -1,0 +1,51 @@
+dataset_path: json
+dataset_kwargs:
+  data_files: ./data/parking/dataset_manifest.json
+task: "parking_no_base"
+test_split: train
+output_type: generate_until
+
+doc_to_visual: !function utils.parking_doc_to_visual
+doc_to_text: !function utils.parking_doc_to_text
+doc_to_target: "solution"
+
+process_results: !function utils.parking_process_results
+
+generation_kwargs:
+  max_new_tokens: 8192
+  do_sample: false
+  temperature: 0.0
+
+lmms_eval_specific_kwargs:
+  default:
+    parking_image_root: ./data/parking
+
+metric_list:
+  - metric: parking_solved_easy
+    aggregation: !function utils.parking_agg_solved_easy
+    higher_is_better: true
+  - metric: parking_solved_middle
+    aggregation: !function utils.parking_agg_solved_middle
+    higher_is_better: true
+  - metric: parking_solved_hard
+    aggregation: !function utils.parking_agg_solved_hard
+    higher_is_better: true
+  - metric: parking_solved_overall
+    aggregation: !function utils.parking_agg_solved_overall
+    higher_is_better: true
+  - metric: parking_optimal_easy
+    aggregation: !function utils.parking_agg_optimal_easy
+    higher_is_better: true
+  - metric: parking_optimal_middle
+    aggregation: !function utils.parking_agg_optimal_middle
+    higher_is_better: true
+  - metric: parking_optimal_hard
+    aggregation: !function utils.parking_agg_optimal_hard
+    higher_is_better: true
+  - metric: parking_optimal_overall
+    aggregation: !function utils.parking_agg_optimal_overall
+    higher_is_better: true
+
+metadata:
+  version: 1.0
+  num_samples: 5

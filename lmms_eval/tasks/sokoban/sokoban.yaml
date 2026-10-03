@@ -1,0 +1,53 @@
+dataset_path: json
+dataset_kwargs:
+  data_files: ./data/sokoban/dataset_manifest.json
+task: "sokoban"
+test_split: train
+output_type: generate_until
+
+doc_to_visual: !function utils.sokoban_doc_to_visual
+doc_to_text: !function utils.sokoban_doc_to_text
+doc_to_target: "solution"
+
+process_results: !function utils.sokoban_process_results
+
+generation_kwargs:
+  max_new_tokens: 8192
+  do_sample: false
+  temperature: 0.0
+
+lmms_eval_specific_kwargs:
+  default:
+    sokoban_image_root: ./data/sokoban
+    sokoban_prompt_mode: aux
+
+metric_list:
+  - metric: sokoban_solved_easy
+    aggregation: !function utils.sokoban_agg_solved_easy
+    higher_is_better: true
+  - metric: sokoban_solved_middle
+    aggregation: !function utils.sokoban_agg_solved_middle
+    higher_is_better: true
+  - metric: sokoban_solved_hard
+    aggregation: !function utils.sokoban_agg_solved_hard
+    higher_is_better: true
+  - metric: sokoban_solved_overall
+    aggregation: !function utils.sokoban_agg_solved_overall
+    higher_is_better: true
+  - metric: sokoban_optimal_easy
+    aggregation: !function utils.sokoban_agg_optimal_easy
+    higher_is_better: true
+  - metric: sokoban_optimal_middle
+    aggregation: !function utils.sokoban_agg_optimal_middle
+    higher_is_better: true
+  - metric: sokoban_optimal_hard
+    aggregation: !function utils.sokoban_agg_optimal_hard
+    higher_is_better: true
+  - metric: sokoban_optimal_overall
+    aggregation: !function utils.sokoban_agg_optimal_overall
+    higher_is_better: true
+
+metadata:
+  version: 1.0
+  num_samples: 100
+  seed: 42

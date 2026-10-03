@@ -1,0 +1,10936 @@
+[
+  {
+    "task_id": "path_labels_on_route_000",
+    "image_path": "images/path_labels_on_route_0000.png",
+    "difficulty": "easy",
+    "distance": 2,
+    "grid_size": 10,
+    "start": [
+      2,
+      3
+    ],
+    "goal": [
+      3,
+      2
+    ],
+    "labeled_points": {
+      "C": [
+        2,
+        2
+      ],
+      "B": [
+        3,
+        1
+      ],
+      "A": [
+        4,
+        3
+      ],
+      "E": [
+        4,
+        1
+      ],
+      "D": [
+        5,
+        3
+      ]
+    },
+    "on_path_labels": [
+      "C"
+    ],
+    "answer_path": [
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "answer": "C"
+  },
+  {
+    "task_id": "path_labels_on_route_001",
+    "image_path": "images/path_labels_on_route_0001.png",
+    "difficulty": "easy",
+    "distance": 2,
+    "grid_size": 10,
+    "start": [
+      3,
+      5
+    ],
+    "goal": [
+      2,
+      6
+    ],
+    "labeled_points": {
+      "E": [
+        2,
+        5
+      ],
+      "D": [
+        1,
+        6
+      ],
+      "B": [
+        3,
+        7
+      ],
+      "A": [
+        1,
+        7
+      ],
+      "C": [
+        2,
+        8
+      ]
+    },
+    "on_path_labels": [
+      "E"
+    ],
+    "answer_path": [
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ]
+    ],
+    "answer": "E"
+  },
+  {
+    "task_id": "path_labels_on_route_002",
+    "image_path": "images/path_labels_on_route_0002.png",
+    "difficulty": "easy",
+    "distance": 2,
+    "grid_size": 10,
+    "start": [
+      2,
+      3
+    ],
+    "goal": [
+      1,
+      4
+    ],
+    "labeled_points": {
+      "A": [
+        2,
+        4
+      ],
+      "C": [
+        0,
+        4
+      ],
+      "E": [
+        0,
+        3
+      ],
+      "B": [
+        1,
+        2
+      ],
+      "D": [
+        0,
+        5
+      ]
+    },
+    "on_path_labels": [
+      "A"
+    ],
+    "answer_path": [
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        4
+      ]
+    ],
+    "answer": "A"
+  },
+  {
+    "task_id": "path_labels_on_route_003",
+    "image_path": "images/path_labels_on_route_0003.png",
+    "difficulty": "easy",
+    "distance": 2,
+    "grid_size": 10,
+    "start": [
+      8,
+      3
+    ],
+    "goal": [
+      9,
+      2
+    ],
+    "labeled_points": {
+      "E": [
+        9,
+        3
+      ],
+      "A": [
+        9,
+        1
+      ],
+      "B": [
+        9,
+        0
+      ],
+      "D": [
+        7,
+        2
+      ],
+      "C": [
+        8,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "E"
+    ],
+    "answer_path": [
+      [
+        8,
+        3
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        2
+      ]
+    ],
+    "answer": "E"
+  },
+  {
+    "task_id": "path_labels_on_route_004",
+    "image_path": "images/path_labels_on_route_0004.png",
+    "difficulty": "easy",
+    "distance": 2,
+    "grid_size": 10,
+    "start": [
+      2,
+      3
+    ],
+    "goal": [
+      3,
+      2
+    ],
+    "labeled_points": {
+      "D": [
+        3,
+        3
+      ],
+      "B": [
+        4,
+        2
+      ],
+      "E": [
+        1,
+        2
+      ],
+      "A": [
+        4,
+        1
+      ],
+      "C": [
+        1,
+        1
+      ]
+    },
+    "on_path_labels": [
+      "D"
+    ],
+    "answer_path": [
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "answer": "D"
+  },
+  {
+    "task_id": "path_labels_on_route_005",
+    "image_path": "images/path_labels_on_route_0005.png",
+    "difficulty": "easy",
+    "distance": 4,
+    "grid_size": 10,
+    "start": [
+      9,
+      2
+    ],
+    "goal": [
+      7,
+      0
+    ],
+    "labeled_points": {
+      "B": [
+        9,
+        1
+      ],
+      "E": [
+        8,
+        1
+      ],
+      "D": [
+        7,
+        1
+      ],
+      "C": [
+        6,
+        0
+      ],
+      "A": [
+        9,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "E",
+      "D"
+    ],
+    "answer_path": [
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        0
+      ]
+    ],
+    "answer": "B,E,D"
+  },
+  {
+    "task_id": "path_labels_on_route_006",
+    "image_path": "images/path_labels_on_route_0006.png",
+    "difficulty": "easy",
+    "distance": 4,
+    "grid_size": 10,
+    "start": [
+      0,
+      9
+    ],
+    "goal": [
+      2,
+      7
+    ],
+    "labeled_points": {
+      "A": [
+        0,
+        8
+      ],
+      "B": [
+        1,
+        8
+      ],
+      "D": [
+        1,
+        7
+      ],
+      "E": [
+        3,
+        7
+      ],
+      "C": [
+        1,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "B",
+      "D"
+    ],
+    "answer_path": [
+      [
+        0,
+        9
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        7
+      ]
+    ],
+    "answer": "A,B,D"
+  },
+  {
+    "task_id": "path_labels_on_route_007",
+    "image_path": "images/path_labels_on_route_0007.png",
+    "difficulty": "easy",
+    "distance": 4,
+    "grid_size": 10,
+    "start": [
+      5,
+      6
+    ],
+    "goal": [
+      7,
+      4
+    ],
+    "labeled_points": {
+      "A": [
+        6,
+        6
+      ],
+      "B": [
+        6,
+        5
+      ],
+      "C": [
+        7,
+        5
+      ],
+      "E": [
+        8,
+        4
+      ],
+      "D": [
+        5,
+        7
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer_path": [
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        7,
+        4
+      ]
+    ],
+    "answer": "A,B,C"
+  },
+  {
+    "task_id": "path_labels_on_route_008",
+    "image_path": "images/path_labels_on_route_0008.png",
+    "difficulty": "easy",
+    "distance": 3,
+    "grid_size": 10,
+    "start": [
+      3,
+      0
+    ],
+    "goal": [
+      5,
+      1
+    ],
+    "labeled_points": {
+      "D": [
+        4,
+        0
+      ],
+      "C": [
+        4,
+        1
+      ],
+      "B": [
+        5,
+        2
+      ],
+      "E": [
+        5,
+        3
+      ],
+      "A": [
+        6,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "C"
+    ],
+    "answer_path": [
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ]
+    ],
+    "answer": "D,C"
+  },
+  {
+    "task_id": "path_labels_on_route_009",
+    "image_path": "images/path_labels_on_route_0009.png",
+    "difficulty": "easy",
+    "distance": 5,
+    "grid_size": 10,
+    "start": [
+      0,
+      6
+    ],
+    "goal": [
+      2,
+      9
+    ],
+    "labeled_points": {
+      "E": [
+        0,
+        7
+      ],
+      "D": [
+        1,
+        8
+      ],
+      "B": [
+        1,
+        9
+      ],
+      "C": [
+        3,
+        9
+      ],
+      "A": [
+        0,
+        5
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "D",
+      "B"
+    ],
+    "answer_path": [
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        9
+      ]
+    ],
+    "answer": "E,D,B"
+  },
+  {
+    "task_id": "path_labels_on_route_010",
+    "image_path": "images/path_labels_on_route_0010.png",
+    "difficulty": "easy",
+    "distance": 4,
+    "grid_size": 10,
+    "start": [
+      7,
+      6
+    ],
+    "goal": [
+      5,
+      4
+    ],
+    "labeled_points": {
+      "A": [
+        6,
+        6
+      ],
+      "D": [
+        6,
+        5
+      ],
+      "E": [
+        5,
+        5
+      ],
+      "B": [
+        4,
+        4
+      ],
+      "C": [
+        8,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "D",
+      "E"
+    ],
+    "answer_path": [
+      [
+        7,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "answer": "A,D,E"
+  },
+  {
+    "task_id": "path_labels_on_route_011",
+    "image_path": "images/path_labels_on_route_0011.png",
+    "difficulty": "easy",
+    "distance": 5,
+    "grid_size": 10,
+    "start": [
+      2,
+      9
+    ],
+    "goal": [
+      5,
+      7
+    ],
+    "labeled_points": {
+      "D": [
+        3,
+        9
+      ],
+      "A": [
+        4,
+        8
+      ],
+      "C": [
+        5,
+        8
+      ],
+      "B": [
+        5,
+        6
+      ],
+      "E": [
+        5,
+        9
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "A",
+      "C"
+    ],
+    "answer_path": [
+      [
+        2,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        5,
+        7
+      ]
+    ],
+    "answer": "D,A,C"
+  },
+  {
+    "task_id": "path_labels_on_route_012",
+    "image_path": "images/path_labels_on_route_0012.png",
+    "difficulty": "easy",
+    "distance": 5,
+    "grid_size": 10,
+    "start": [
+      5,
+      6
+    ],
+    "goal": [
+      7,
+      3
+    ],
+    "labeled_points": {
+      "A": [
+        6,
+        5
+      ],
+      "C": [
+        6,
+        4
+      ],
+      "B": [
+        7,
+        4
+      ],
+      "D": [
+        8,
+        3
+      ],
+      "E": [
+        4,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "C",
+      "B"
+    ],
+    "answer_path": [
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        3
+      ]
+    ],
+    "answer": "A,C,B"
+  },
+  {
+    "task_id": "path_labels_on_route_013",
+    "image_path": "images/path_labels_on_route_0013.png",
+    "difficulty": "easy",
+    "distance": 4,
+    "grid_size": 10,
+    "start": [
+      6,
+      2
+    ],
+    "goal": [
+      8,
+      4
+    ],
+    "labeled_points": {
+      "E": [
+        7,
+        2
+      ],
+      "C": [
+        7,
+        3
+      ],
+      "A": [
+        8,
+        3
+      ],
+      "D": [
+        9,
+        4
+      ],
+      "B": [
+        7,
+        1
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "C",
+      "A"
+    ],
+    "answer_path": [
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        8,
+        4
+      ]
+    ],
+    "answer": "E,C,A"
+  },
+  {
+    "task_id": "path_labels_on_route_014",
+    "image_path": "images/path_labels_on_route_0014.png",
+    "difficulty": "easy",
+    "distance": 3,
+    "grid_size": 10,
+    "start": [
+      1,
+      8
+    ],
+    "goal": [
+      0,
+      6
+    ],
+    "labeled_points": {
+      "D": [
+        1,
+        7
+      ],
+      "B": [
+        0,
+        7
+      ],
+      "E": [
+        0,
+        5
+      ],
+      "A": [
+        0,
+        4
+      ],
+      "C": [
+        1,
+        4
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "B"
+    ],
+    "answer_path": [
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "answer": "D,B"
+  },
+  {
+    "task_id": "path_labels_on_route_015",
+    "image_path": "images/path_labels_on_route_0015.png",
+    "difficulty": "easy",
+    "distance": 5,
+    "grid_size": 10,
+    "start": [
+      3,
+      0
+    ],
+    "goal": [
+      0,
+      2
+    ],
+    "labeled_points": {
+      "D": [
+        1,
+        0
+      ],
+      "C": [
+        1,
+        1
+      ],
+      "A": [
+        0,
+        1
+      ],
+      "B": [
+        0,
+        3
+      ],
+      "E": [
+        4,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "C",
+      "A"
+    ],
+    "answer_path": [
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "answer": "D,C,A"
+  },
+  {
+    "task_id": "path_labels_on_route_016",
+    "image_path": "images/path_labels_on_route_0016.png",
+    "difficulty": "easy",
+    "distance": 3,
+    "grid_size": 10,
+    "start": [
+      5,
+      3
+    ],
+    "goal": [
+      6,
+      1
+    ],
+    "labeled_points": {
+      "B": [
+        5,
+        2
+      ],
+      "D": [
+        6,
+        2
+      ],
+      "C": [
+        7,
+        1
+      ],
+      "A": [
+        7,
+        0
+      ],
+      "E": [
+        8,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "D"
+    ],
+    "answer_path": [
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "answer": "B,D"
+  },
+  {
+    "task_id": "path_labels_on_route_017",
+    "image_path": "images/path_labels_on_route_0017.png",
+    "difficulty": "easy",
+    "distance": 4,
+    "grid_size": 10,
+    "start": [
+      7,
+      0
+    ],
+    "goal": [
+      9,
+      2
+    ],
+    "labeled_points": {
+      "D": [
+        8,
+        0
+      ],
+      "C": [
+        8,
+        1
+      ],
+      "A": [
+        9,
+        1
+      ],
+      "E": [
+        9,
+        3
+      ],
+      "B": [
+        6,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "C",
+      "A"
+    ],
+    "answer_path": [
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ]
+    ],
+    "answer": "D,C,A"
+  },
+  {
+    "task_id": "path_labels_on_route_018",
+    "image_path": "images/path_labels_on_route_0018.png",
+    "difficulty": "easy",
+    "distance": 5,
+    "grid_size": 10,
+    "start": [
+      5,
+      5
+    ],
+    "goal": [
+      2,
+      7
+    ],
+    "labeled_points": {
+      "D": [
+        4,
+        5
+      ],
+      "A": [
+        3,
+        6
+      ],
+      "B": [
+        2,
+        6
+      ],
+      "E": [
+        2,
+        8
+      ],
+      "C": [
+        1,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "A",
+      "B"
+    ],
+    "answer_path": [
+      [
+        5,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        7
+      ]
+    ],
+    "answer": "D,A,B"
+  },
+  {
+    "task_id": "path_labels_on_route_019",
+    "image_path": "images/path_labels_on_route_0019.png",
+    "difficulty": "easy",
+    "distance": 3,
+    "grid_size": 10,
+    "start": [
+      2,
+      2
+    ],
+    "goal": [
+      3,
+      0
+    ],
+    "labeled_points": {
+      "C": [
+        2,
+        1
+      ],
+      "B": [
+        2,
+        0
+      ],
+      "A": [
+        4,
+        0
+      ],
+      "D": [
+        1,
+        0
+      ],
+      "E": [
+        2,
+        3
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "B"
+    ],
+    "answer_path": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "answer": "C,B"
+  },
+  {
+    "task_id": "path_labels_on_route_020",
+    "image_path": "images/path_labels_on_route_0020.png",
+    "difficulty": "middle",
+    "distance": 14,
+    "grid_size": 10,
+    "start": [
+      5,
+      7
+    ],
+    "goal": [
+      2,
+      0
+    ],
+    "labeled_points": {
+      "B": [
+        3,
+        6
+      ],
+      "A": [
+        2,
+        4
+      ],
+      "E": [
+        0,
+        0
+      ],
+      "D": [
+        2,
+        1
+      ],
+      "C": [
+        5,
+        8
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "A",
+      "E"
+    ],
+    "answer_path": [
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "answer": "B,A,E"
+  },
+  {
+    "task_id": "path_labels_on_route_021",
+    "image_path": "images/path_labels_on_route_0021.png",
+    "difficulty": "middle",
+    "distance": 10,
+    "grid_size": 10,
+    "start": [
+      4,
+      8
+    ],
+    "goal": [
+      0,
+      2
+    ],
+    "labeled_points": {
+      "A": [
+        3,
+        7
+      ],
+      "C": [
+        2,
+        5
+      ],
+      "E": [
+        1,
+        3
+      ],
+      "B": [
+        0,
+        1
+      ],
+      "D": [
+        4,
+        9
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "C",
+      "E"
+    ],
+    "answer_path": [
+      [
+        4,
+        8
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "answer": "A,C,E"
+  },
+  {
+    "task_id": "path_labels_on_route_022",
+    "image_path": "images/path_labels_on_route_0022.png",
+    "difficulty": "middle",
+    "distance": 10,
+    "grid_size": 10,
+    "start": [
+      3,
+      5
+    ],
+    "goal": [
+      8,
+      0
+    ],
+    "labeled_points": {
+      "A": [
+        4,
+        4
+      ],
+      "D": [
+        5,
+        3
+      ],
+      "C": [
+        7,
+        1
+      ],
+      "E": [
+        9,
+        0
+      ],
+      "B": [
+        3,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "D",
+      "C"
+    ],
+    "answer_path": [
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ]
+    ],
+    "answer": "A,D,C"
+  },
+  {
+    "task_id": "path_labels_on_route_023",
+    "image_path": "images/path_labels_on_route_0023.png",
+    "difficulty": "middle",
+    "distance": 12,
+    "grid_size": 10,
+    "start": [
+      1,
+      1
+    ],
+    "goal": [
+      5,
+      9
+    ],
+    "labeled_points": {
+      "C": [
+        1,
+        3
+      ],
+      "E": [
+        4,
+        5
+      ],
+      "D": [
+        4,
+        8
+      ],
+      "A": [
+        3,
+        8
+      ],
+      "B": [
+        2,
+        1
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "E",
+      "D"
+    ],
+    "answer_path": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "answer": "C,E,D"
+  },
+  {
+    "task_id": "path_labels_on_route_024",
+    "image_path": "images/path_labels_on_route_0024.png",
+    "difficulty": "middle",
+    "distance": 9,
+    "grid_size": 10,
+    "start": [
+      0,
+      7
+    ],
+    "goal": [
+      5,
+      3
+    ],
+    "labeled_points": {
+      "B": [
+        0,
+        5
+      ],
+      "D": [
+        1,
+        4
+      ],
+      "A": [
+        3,
+        4
+      ],
+      "C": [
+        6,
+        3
+      ],
+      "E": [
+        0,
+        8
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "D",
+      "A"
+    ],
+    "answer_path": [
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "answer": "B,D,A"
+  },
+  {
+    "task_id": "path_labels_on_route_025",
+    "image_path": "images/path_labels_on_route_0025.png",
+    "difficulty": "middle",
+    "distance": 14,
+    "grid_size": 10,
+    "start": [
+      7,
+      0
+    ],
+    "goal": [
+      2,
+      7
+    ],
+    "labeled_points": {
+      "B": [
+        5,
+        2
+      ],
+      "D": [
+        4,
+        3
+      ],
+      "E": [
+        1,
+        4
+      ],
+      "A": [
+        3,
+        7
+      ],
+      "C": [
+        7,
+        1
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "D",
+      "E"
+    ],
+    "answer_path": [
+      [
+        7,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        7
+      ]
+    ],
+    "answer": "B,D,E"
+  },
+  {
+    "task_id": "path_labels_on_route_026",
+    "image_path": "images/path_labels_on_route_0026.png",
+    "difficulty": "middle",
+    "distance": 8,
+    "grid_size": 10,
+    "start": [
+      3,
+      8
+    ],
+    "goal": [
+      8,
+      5
+    ],
+    "labeled_points": {
+      "E": [
+        5,
+        7
+      ],
+      "D": [
+        5,
+        6
+      ],
+      "A": [
+        6,
+        6
+      ],
+      "B": [
+        9,
+        5
+      ],
+      "C": [
+        7,
+        7
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "D",
+      "A"
+    ],
+    "answer_path": [
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        8,
+        5
+      ]
+    ],
+    "answer": "E,D,A"
+  },
+  {
+    "task_id": "path_labels_on_route_027",
+    "image_path": "images/path_labels_on_route_0027.png",
+    "difficulty": "middle",
+    "distance": 14,
+    "grid_size": 10,
+    "start": [
+      0,
+      9
+    ],
+    "goal": [
+      5,
+      0
+    ],
+    "labeled_points": {
+      "C": [
+        0,
+        7
+      ],
+      "A": [
+        1,
+        3
+      ],
+      "B": [
+        4,
+        1
+      ],
+      "D": [
+        3,
+        0
+      ],
+      "E": [
+        6,
+        1
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "A",
+      "B"
+    ],
+    "answer_path": [
+      [
+        0,
+        9
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        0
+      ]
+    ],
+    "answer": "C,A,B"
+  },
+  {
+    "task_id": "path_labels_on_route_028",
+    "image_path": "images/path_labels_on_route_0028.png",
+    "difficulty": "middle",
+    "distance": 11,
+    "grid_size": 10,
+    "start": [
+      0,
+      2
+    ],
+    "goal": [
+      6,
+      7
+    ],
+    "labeled_points": {
+      "D": [
+        1,
+        5
+      ],
+      "E": [
+        2,
+        6
+      ],
+      "C": [
+        5,
+        7
+      ],
+      "B": [
+        6,
+        6
+      ],
+      "A": [
+        1,
+        7
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "E",
+      "C"
+    ],
+    "answer_path": [
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "answer": "D,E,C"
+  },
+  {
+    "task_id": "path_labels_on_route_029",
+    "image_path": "images/path_labels_on_route_0029.png",
+    "difficulty": "middle",
+    "distance": 13,
+    "grid_size": 10,
+    "start": [
+      9,
+      3
+    ],
+    "goal": [
+      3,
+      8
+    ],
+    "labeled_points": {
+      "D": [
+        9,
+        5
+      ],
+      "E": [
+        6,
+        8
+      ],
+      "A": [
+        4,
+        9
+      ],
+      "B": [
+        3,
+        7
+      ],
+      "C": [
+        8,
+        8
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "E",
+      "A"
+    ],
+    "answer_path": [
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        3,
+        8
+      ]
+    ],
+    "answer": "D,E,A"
+  },
+  {
+    "task_id": "path_labels_on_route_030",
+    "image_path": "images/path_labels_on_route_0030.png",
+    "difficulty": "middle",
+    "distance": 14,
+    "grid_size": 10,
+    "start": [
+      3,
+      0
+    ],
+    "goal": [
+      0,
+      9
+    ],
+    "labeled_points": {
+      "E": [
+        1,
+        0
+      ],
+      "A": [
+        0,
+        3
+      ],
+      "B": [
+        1,
+        6
+      ],
+      "D": [
+        1,
+        8
+      ],
+      "C": [
+        4,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "A",
+      "B"
+    ],
+    "answer_path": [
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        9
+      ]
+    ],
+    "answer": "E,A,B"
+  },
+  {
+    "task_id": "path_labels_on_route_031",
+    "image_path": "images/path_labels_on_route_0031.png",
+    "difficulty": "middle",
+    "distance": 13,
+    "grid_size": 10,
+    "start": [
+      1,
+      7
+    ],
+    "goal": [
+      9,
+      6
+    ],
+    "labeled_points": {
+      "D": [
+        2,
+        9
+      ],
+      "E": [
+        4,
+        8
+      ],
+      "B": [
+        8,
+        7
+      ],
+      "A": [
+        9,
+        5
+      ],
+      "C": [
+        5,
+        7
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "E",
+      "B"
+    ],
+    "answer_path": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        9,
+        6
+      ]
+    ],
+    "answer": "D,E,B"
+  },
+  {
+    "task_id": "path_labels_on_route_032",
+    "image_path": "images/path_labels_on_route_0032.png",
+    "difficulty": "middle",
+    "distance": 12,
+    "grid_size": 10,
+    "start": [
+      5,
+      2
+    ],
+    "goal": [
+      0,
+      5
+    ],
+    "labeled_points": {
+      "A": [
+        5,
+        0
+      ],
+      "B": [
+        3,
+        1
+      ],
+      "C": [
+        0,
+        3
+      ],
+      "E": [
+        1,
+        5
+      ],
+      "D": [
+        0,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer_path": [
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        5
+      ]
+    ],
+    "answer": "A,B,C"
+  },
+  {
+    "task_id": "path_labels_on_route_033",
+    "image_path": "images/path_labels_on_route_0033.png",
+    "difficulty": "middle",
+    "distance": 14,
+    "grid_size": 10,
+    "start": [
+      2,
+      1
+    ],
+    "goal": [
+      2,
+      9
+    ],
+    "labeled_points": {
+      "D": [
+        0,
+        3
+      ],
+      "E": [
+        2,
+        5
+      ],
+      "A": [
+        3,
+        8
+      ],
+      "C": [
+        1,
+        9
+      ],
+      "B": [
+        3,
+        5
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "E",
+      "A"
+    ],
+    "answer_path": [
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        2,
+        9
+      ]
+    ],
+    "answer": "D,E,A"
+  },
+  {
+    "task_id": "path_labels_on_route_034",
+    "image_path": "images/path_labels_on_route_0034.png",
+    "difficulty": "middle",
+    "distance": 14,
+    "grid_size": 10,
+    "start": [
+      9,
+      7
+    ],
+    "goal": [
+      3,
+      1
+    ],
+    "labeled_points": {
+      "B": [
+        8,
+        4
+      ],
+      "A": [
+        6,
+        3
+      ],
+      "C": [
+        6,
+        0
+      ],
+      "E": [
+        3,
+        2
+      ],
+      "D": [
+        7,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "A",
+      "C"
+    ],
+    "answer_path": [
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "answer": "B,A,C"
+  },
+  {
+    "task_id": "path_labels_on_route_035",
+    "image_path": "images/path_labels_on_route_0035.png",
+    "difficulty": "middle",
+    "distance": 14,
+    "grid_size": 10,
+    "start": [
+      4,
+      6
+    ],
+    "goal": [
+      1,
+      1
+    ],
+    "labeled_points": {
+      "B": [
+        2,
+        7
+      ],
+      "D": [
+        0,
+        8
+      ],
+      "A": [
+        1,
+        3
+      ],
+      "C": [
+        1,
+        0
+      ],
+      "E": [
+        3,
+        5
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "D",
+      "A"
+    ],
+    "answer_path": [
+      [
+        4,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "answer": "B,D,A"
+  },
+  {
+    "task_id": "path_labels_on_route_036",
+    "image_path": "images/path_labels_on_route_0036.png",
+    "difficulty": "middle",
+    "distance": 8,
+    "grid_size": 10,
+    "start": [
+      9,
+      6
+    ],
+    "goal": [
+      4,
+      3
+    ],
+    "labeled_points": {
+      "B": [
+        9,
+        5
+      ],
+      "C": [
+        7,
+        4
+      ],
+      "E": [
+        4,
+        4
+      ],
+      "A": [
+        4,
+        2
+      ],
+      "D": [
+        9,
+        7
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "C",
+      "E"
+    ],
+    "answer_path": [
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "answer": "B,C,E"
+  },
+  {
+    "task_id": "path_labels_on_route_037",
+    "image_path": "images/path_labels_on_route_0037.png",
+    "difficulty": "middle",
+    "distance": 10,
+    "grid_size": 10,
+    "start": [
+      5,
+      3
+    ],
+    "goal": [
+      0,
+      6
+    ],
+    "labeled_points": {
+      "A": [
+        4,
+        2
+      ],
+      "E": [
+        2,
+        3
+      ],
+      "B": [
+        1,
+        5
+      ],
+      "D": [
+        0,
+        7
+      ],
+      "C": [
+        5,
+        4
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "E",
+      "B"
+    ],
+    "answer_path": [
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "answer": "A,E,B"
+  },
+  {
+    "task_id": "path_labels_on_route_038",
+    "image_path": "images/path_labels_on_route_0038.png",
+    "difficulty": "middle",
+    "distance": 11,
+    "grid_size": 10,
+    "start": [
+      3,
+      3
+    ],
+    "goal": [
+      8,
+      5
+    ],
+    "labeled_points": {
+      "D": [
+        5,
+        3
+      ],
+      "E": [
+        6,
+        4
+      ],
+      "C": [
+        7,
+        6
+      ],
+      "B": [
+        8,
+        4
+      ],
+      "A": [
+        3,
+        4
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "E",
+      "C"
+    ],
+    "answer_path": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        5
+      ]
+    ],
+    "answer": "D,E,C"
+  },
+  {
+    "task_id": "path_labels_on_route_039",
+    "image_path": "images/path_labels_on_route_0039.png",
+    "difficulty": "middle",
+    "distance": 13,
+    "grid_size": 10,
+    "start": [
+      4,
+      1
+    ],
+    "goal": [
+      8,
+      6
+    ],
+    "labeled_points": {
+      "A": [
+        6,
+        0
+      ],
+      "C": [
+        8,
+        2
+      ],
+      "D": [
+        9,
+        3
+      ],
+      "E": [
+        7,
+        6
+      ],
+      "B": [
+        8,
+        7
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "C",
+      "D"
+    ],
+    "answer_path": [
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        6
+      ]
+    ],
+    "answer": "A,C,D"
+  },
+  {
+    "task_id": "path_labels_on_route_040",
+    "image_path": "images/path_labels_on_route_0040.png",
+    "difficulty": "middle",
+    "distance": 10,
+    "grid_size": 10,
+    "start": [
+      9,
+      3
+    ],
+    "goal": [
+      5,
+      9
+    ],
+    "labeled_points": {
+      "B": [
+        8,
+        4
+      ],
+      "C": [
+        8,
+        7
+      ],
+      "E": [
+        7,
+        8
+      ],
+      "A": [
+        5,
+        8
+      ],
+      "D": [
+        8,
+        9
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "C",
+      "E"
+    ],
+    "answer_path": [
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "answer": "B,C,E"
+  },
+  {
+    "task_id": "path_labels_on_route_041",
+    "image_path": "images/path_labels_on_route_0041.png",
+    "difficulty": "middle",
+    "distance": 12,
+    "grid_size": 10,
+    "start": [
+      8,
+      1
+    ],
+    "goal": [
+      9,
+      8
+    ],
+    "labeled_points": {
+      "B": [
+        9,
+        3
+      ],
+      "C": [
+        8,
+        4
+      ],
+      "A": [
+        7,
+        6
+      ],
+      "E": [
+        9,
+        9
+      ],
+      "D": [
+        7,
+        1
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "C",
+      "A"
+    ],
+    "answer_path": [
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        8
+      ]
+    ],
+    "answer": "B,C,A"
+  },
+  {
+    "task_id": "path_labels_on_route_042",
+    "image_path": "images/path_labels_on_route_0042.png",
+    "difficulty": "middle",
+    "distance": 11,
+    "grid_size": 10,
+    "start": [
+      5,
+      7
+    ],
+    "goal": [
+      9,
+      0
+    ],
+    "labeled_points": {
+      "A": [
+        6,
+        6
+      ],
+      "E": [
+        8,
+        3
+      ],
+      "B": [
+        9,
+        1
+      ],
+      "D": [
+        8,
+        0
+      ],
+      "C": [
+        6,
+        5
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "E",
+      "B"
+    ],
+    "answer_path": [
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        0
+      ]
+    ],
+    "answer": "A,E,B"
+  },
+  {
+    "task_id": "path_labels_on_route_043",
+    "image_path": "images/path_labels_on_route_0043.png",
+    "difficulty": "middle",
+    "distance": 13,
+    "grid_size": 10,
+    "start": [
+      6,
+      0
+    ],
+    "goal": [
+      2,
+      5
+    ],
+    "labeled_points": {
+      "E": [
+        5,
+        3
+      ],
+      "D": [
+        4,
+        4
+      ],
+      "A": [
+        1,
+        3
+      ],
+      "B": [
+        2,
+        6
+      ],
+      "C": [
+        1,
+        2
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "D",
+      "A"
+    ],
+    "answer_path": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "answer": "E,D,A"
+  },
+  {
+    "task_id": "path_labels_on_route_044",
+    "image_path": "images/path_labels_on_route_0044.png",
+    "difficulty": "middle",
+    "distance": 11,
+    "grid_size": 10,
+    "start": [
+      8,
+      0
+    ],
+    "goal": [
+      5,
+      6
+    ],
+    "labeled_points": {
+      "D": [
+        9,
+        2
+      ],
+      "C": [
+        8,
+        3
+      ],
+      "A": [
+        6,
+        5
+      ],
+      "B": [
+        5,
+        7
+      ],
+      "E": [
+        7,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "C",
+      "A"
+    ],
+    "answer_path": [
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        6
+      ]
+    ],
+    "answer": "D,C,A"
+  },
+  {
+    "task_id": "path_labels_on_route_045",
+    "image_path": "images/path_labels_on_route_0045.png",
+    "difficulty": "middle",
+    "distance": 14,
+    "grid_size": 10,
+    "start": [
+      3,
+      8
+    ],
+    "goal": [
+      9,
+      2
+    ],
+    "labeled_points": {
+      "A": [
+        4,
+        7
+      ],
+      "C": [
+        7,
+        5
+      ],
+      "B": [
+        8,
+        1
+      ],
+      "E": [
+        9,
+        3
+      ],
+      "D": [
+        9,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "C",
+      "B"
+    ],
+    "answer_path": [
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ]
+    ],
+    "answer": "A,C,B"
+  },
+  {
+    "task_id": "path_labels_on_route_046",
+    "image_path": "images/path_labels_on_route_0046.png",
+    "difficulty": "middle",
+    "distance": 11,
+    "grid_size": 10,
+    "start": [
+      3,
+      6
+    ],
+    "goal": [
+      2,
+      0
+    ],
+    "labeled_points": {
+      "A": [
+        2,
+        5
+      ],
+      "C": [
+        0,
+        3
+      ],
+      "B": [
+        1,
+        0
+      ],
+      "D": [
+        3,
+        0
+      ],
+      "E": [
+        3,
+        7
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "C",
+      "B"
+    ],
+    "answer_path": [
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "answer": "A,C,B"
+  },
+  {
+    "task_id": "path_labels_on_route_047",
+    "image_path": "images/path_labels_on_route_0047.png",
+    "difficulty": "middle",
+    "distance": 9,
+    "grid_size": 10,
+    "start": [
+      4,
+      4
+    ],
+    "goal": [
+      2,
+      9
+    ],
+    "labeled_points": {
+      "D": [
+        5,
+        5
+      ],
+      "A": [
+        4,
+        7
+      ],
+      "C": [
+        4,
+        8
+      ],
+      "E": [
+        1,
+        9
+      ],
+      "B": [
+        4,
+        3
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "A",
+      "C"
+    ],
+    "answer_path": [
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        2,
+        9
+      ]
+    ],
+    "answer": "D,A,C"
+  },
+  {
+    "task_id": "path_labels_on_route_048",
+    "image_path": "images/path_labels_on_route_0048.png",
+    "difficulty": "middle",
+    "distance": 14,
+    "grid_size": 10,
+    "start": [
+      9,
+      7
+    ],
+    "goal": [
+      1,
+      9
+    ],
+    "labeled_points": {
+      "B": [
+        7,
+        9
+      ],
+      "D": [
+        5,
+        7
+      ],
+      "E": [
+        3,
+        7
+      ],
+      "C": [
+        0,
+        9
+      ],
+      "A": [
+        9,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "D",
+      "E"
+    ],
+    "answer_path": [
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        1,
+        9
+      ]
+    ],
+    "answer": "B,D,E"
+  },
+  {
+    "task_id": "path_labels_on_route_049",
+    "image_path": "images/path_labels_on_route_0049.png",
+    "difficulty": "middle",
+    "distance": 9,
+    "grid_size": 10,
+    "start": [
+      6,
+      6
+    ],
+    "goal": [
+      0,
+      7
+    ],
+    "labeled_points": {
+      "B": [
+        5,
+        7
+      ],
+      "E": [
+        2,
+        7
+      ],
+      "A": [
+        2,
+        6
+      ],
+      "C": [
+        0,
+        8
+      ],
+      "D": [
+        1,
+        8
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "E",
+      "A"
+    ],
+    "answer_path": [
+      [
+        6,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        7
+      ]
+    ],
+    "answer": "B,E,A"
+  },
+  {
+    "task_id": "path_labels_on_route_050",
+    "image_path": "images/path_labels_on_route_0050.png",
+    "difficulty": "hard",
+    "distance": 23,
+    "grid_size": 10,
+    "start": [
+      1,
+      2
+    ],
+    "goal": [
+      3,
+      9
+    ],
+    "labeled_points": {
+      "E": [
+        3,
+        0
+      ],
+      "B": [
+        6,
+        3
+      ],
+      "A": [
+        6,
+        6
+      ],
+      "D": [
+        2,
+        9
+      ],
+      "C": [
+        2,
+        2
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "B",
+      "A"
+    ],
+    "answer_path": [
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        3,
+        9
+      ]
+    ],
+    "answer": "E,B,A"
+  },
+  {
+    "task_id": "path_labels_on_route_051",
+    "image_path": "images/path_labels_on_route_0051.png",
+    "difficulty": "hard",
+    "distance": 18,
+    "grid_size": 10,
+    "start": [
+      9,
+      7
+    ],
+    "goal": [
+      0,
+      2
+    ],
+    "labeled_points": {
+      "A": [
+        8,
+        3
+      ],
+      "B": [
+        5,
+        3
+      ],
+      "C": [
+        2,
+        0
+      ],
+      "E": [
+        0,
+        3
+      ],
+      "D": [
+        2,
+        2
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer_path": [
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "answer": "A,B,C"
+  },
+  {
+    "task_id": "path_labels_on_route_052",
+    "image_path": "images/path_labels_on_route_0052.png",
+    "difficulty": "hard",
+    "distance": 19,
+    "grid_size": 10,
+    "start": [
+      2,
+      9
+    ],
+    "goal": [
+      8,
+      0
+    ],
+    "labeled_points": {
+      "A": [
+        3,
+        6
+      ],
+      "B": [
+        4,
+        4
+      ],
+      "D": [
+        8,
+        2
+      ],
+      "C": [
+        7,
+        0
+      ],
+      "E": [
+        3,
+        9
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "B",
+      "D"
+    ],
+    "answer_path": [
+      [
+        2,
+        9
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        8,
+        0
+      ]
+    ],
+    "answer": "A,B,D"
+  },
+  {
+    "task_id": "path_labels_on_route_053",
+    "image_path": "images/path_labels_on_route_0053.png",
+    "difficulty": "hard",
+    "distance": 20,
+    "grid_size": 10,
+    "start": [
+      6,
+      9
+    ],
+    "goal": [
+      1,
+      0
+    ],
+    "labeled_points": {
+      "D": [
+        9,
+        7
+      ],
+      "A": [
+        6,
+        5
+      ],
+      "C": [
+        3,
+        3
+      ],
+      "B": [
+        0,
+        0
+      ],
+      "E": [
+        3,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "A",
+      "C"
+    ],
+    "answer_path": [
+      [
+        6,
+        9
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "answer": "D,A,C"
+  },
+  {
+    "task_id": "path_labels_on_route_054",
+    "image_path": "images/path_labels_on_route_0054.png",
+    "difficulty": "hard",
+    "distance": 22,
+    "grid_size": 10,
+    "start": [
+      7,
+      2
+    ],
+    "goal": [
+      0,
+      9
+    ],
+    "labeled_points": {
+      "A": [
+        3,
+        1
+      ],
+      "E": [
+        0,
+        4
+      ],
+      "B": [
+        3,
+        6
+      ],
+      "C": [
+        1,
+        9
+      ],
+      "D": [
+        4,
+        7
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "E",
+      "B"
+    ],
+    "answer_path": [
+      [
+        7,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        9
+      ]
+    ],
+    "answer": "A,E,B"
+  },
+  {
+    "task_id": "path_labels_on_route_055",
+    "image_path": "images/path_labels_on_route_0055.png",
+    "difficulty": "hard",
+    "distance": 18,
+    "grid_size": 10,
+    "start": [
+      5,
+      9
+    ],
+    "goal": [
+      2,
+      0
+    ],
+    "labeled_points": {
+      "C": [
+        2,
+        7
+      ],
+      "A": [
+        0,
+        5
+      ],
+      "D": [
+        3,
+        3
+      ],
+      "B": [
+        1,
+        0
+      ],
+      "E": [
+        4,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "A",
+      "D"
+    ],
+    "answer_path": [
+      [
+        5,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "answer": "C,A,D"
+  },
+  {
+    "task_id": "path_labels_on_route_056",
+    "image_path": "images/path_labels_on_route_0056.png",
+    "difficulty": "hard",
+    "distance": 25,
+    "grid_size": 10,
+    "start": [
+      9,
+      9
+    ],
+    "goal": [
+      2,
+      1
+    ],
+    "labeled_points": {
+      "E": [
+        9,
+        2
+      ],
+      "C": [
+        4,
+        1
+      ],
+      "B": [
+        2,
+        4
+      ],
+      "A": [
+        2,
+        0
+      ],
+      "D": [
+        1,
+        5
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "C",
+      "B"
+    ],
+    "answer_path": [
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "answer": "E,C,B"
+  },
+  {
+    "task_id": "path_labels_on_route_057",
+    "image_path": "images/path_labels_on_route_0057.png",
+    "difficulty": "hard",
+    "distance": 25,
+    "grid_size": 10,
+    "start": [
+      0,
+      4
+    ],
+    "goal": [
+      7,
+      8
+    ],
+    "labeled_points": {
+      "A": [
+        1,
+        8
+      ],
+      "C": [
+        6,
+        6
+      ],
+      "B": [
+        9,
+        4
+      ],
+      "D": [
+        7,
+        9
+      ],
+      "E": [
+        7,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "C",
+      "B"
+    ],
+    "answer_path": [
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "answer": "A,C,B"
+  },
+  {
+    "task_id": "path_labels_on_route_058",
+    "image_path": "images/path_labels_on_route_0058.png",
+    "difficulty": "hard",
+    "distance": 23,
+    "grid_size": 10,
+    "start": [
+      5,
+      9
+    ],
+    "goal": [
+      7,
+      0
+    ],
+    "labeled_points": {
+      "B": [
+        0,
+        7
+      ],
+      "C": [
+        3,
+        5
+      ],
+      "E": [
+        7,
+        4
+      ],
+      "D": [
+        5,
+        0
+      ],
+      "A": [
+        8,
+        2
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "C",
+      "E"
+    ],
+    "answer_path": [
+      [
+        5,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ]
+    ],
+    "answer": "B,C,E"
+  },
+  {
+    "task_id": "path_labels_on_route_059",
+    "image_path": "images/path_labels_on_route_0059.png",
+    "difficulty": "hard",
+    "distance": 22,
+    "grid_size": 10,
+    "start": [
+      1,
+      9
+    ],
+    "goal": [
+      9,
+      3
+    ],
+    "labeled_points": {
+      "B": [
+        3,
+        7
+      ],
+      "A": [
+        3,
+        2
+      ],
+      "D": [
+        8,
+        0
+      ],
+      "C": [
+        9,
+        4
+      ],
+      "E": [
+        4,
+        2
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "A",
+      "D"
+    ],
+    "answer_path": [
+      [
+        1,
+        9
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ]
+    ],
+    "answer": "B,A,D"
+  },
+  {
+    "task_id": "path_labels_on_route_060",
+    "image_path": "images/path_labels_on_route_0060.png",
+    "difficulty": "hard",
+    "distance": 23,
+    "grid_size": 10,
+    "start": [
+      0,
+      1
+    ],
+    "goal": [
+      9,
+      9
+    ],
+    "labeled_points": {
+      "E": [
+        4,
+        2
+      ],
+      "C": [
+        7,
+        3
+      ],
+      "D": [
+        9,
+        5
+      ],
+      "A": [
+        7,
+        8
+      ],
+      "B": [
+        8,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "C",
+      "D"
+    ],
+    "answer_path": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        9
+      ]
+    ],
+    "answer": "E,C,D"
+  },
+  {
+    "task_id": "path_labels_on_route_061",
+    "image_path": "images/path_labels_on_route_0061.png",
+    "difficulty": "hard",
+    "distance": 24,
+    "grid_size": 10,
+    "start": [
+      9,
+      9
+    ],
+    "goal": [
+      0,
+      0
+    ],
+    "labeled_points": {
+      "C": [
+        7,
+        8
+      ],
+      "E": [
+        1,
+        8
+      ],
+      "A": [
+        2,
+        4
+      ],
+      "D": [
+        0,
+        7
+      ],
+      "B": [
+        3,
+        4
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "E",
+      "A"
+    ],
+    "answer_path": [
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "answer": "C,E,A"
+  },
+  {
+    "task_id": "path_labels_on_route_062",
+    "image_path": "images/path_labels_on_route_0062.png",
+    "difficulty": "hard",
+    "distance": 25,
+    "grid_size": 10,
+    "start": [
+      9,
+      5
+    ],
+    "goal": [
+      6,
+      9
+    ],
+    "labeled_points": {
+      "C": [
+        7,
+        0
+      ],
+      "B": [
+        4,
+        4
+      ],
+      "E": [
+        7,
+        6
+      ],
+      "A": [
+        5,
+        9
+      ],
+      "D": [
+        6,
+        8
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "B",
+      "E"
+    ],
+    "answer_path": [
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "answer": "C,B,E"
+  },
+  {
+    "task_id": "path_labels_on_route_063",
+    "image_path": "images/path_labels_on_route_0063.png",
+    "difficulty": "hard",
+    "distance": 23,
+    "grid_size": 10,
+    "start": [
+      0,
+      9
+    ],
+    "goal": [
+      9,
+      5
+    ],
+    "labeled_points": {
+      "C": [
+        3,
+        5
+      ],
+      "D": [
+        4,
+        0
+      ],
+      "E": [
+        8,
+        2
+      ],
+      "B": [
+        9,
+        6
+      ],
+      "A": [
+        1,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "D",
+      "E"
+    ],
+    "answer_path": [
+      [
+        0,
+        9
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        5
+      ]
+    ],
+    "answer": "C,D,E"
+  },
+  {
+    "task_id": "path_labels_on_route_064",
+    "image_path": "images/path_labels_on_route_0064.png",
+    "difficulty": "hard",
+    "distance": 18,
+    "grid_size": 10,
+    "start": [
+      6,
+      6
+    ],
+    "goal": [
+      0,
+      4
+    ],
+    "labeled_points": {
+      "C": [
+        4,
+        5
+      ],
+      "B": [
+        6,
+        1
+      ],
+      "A": [
+        2,
+        3
+      ],
+      "E": [
+        1,
+        5
+      ],
+      "D": [
+        3,
+        4
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "B",
+      "A"
+    ],
+    "answer_path": [
+      [
+        6,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    "answer": "C,B,A"
+  },
+  {
+    "task_id": "path_labels_on_route_065",
+    "image_path": "images/path_labels_on_route_0065.png",
+    "difficulty": "hard",
+    "distance": 24,
+    "grid_size": 10,
+    "start": [
+      7,
+      8
+    ],
+    "goal": [
+      4,
+      3
+    ],
+    "labeled_points": {
+      "B": [
+        2,
+        9
+      ],
+      "D": [
+        1,
+        5
+      ],
+      "A": [
+        3,
+        2
+      ],
+      "E": [
+        4,
+        4
+      ],
+      "C": [
+        1,
+        3
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "D",
+      "A"
+    ],
+    "answer_path": [
+      [
+        7,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "answer": "B,D,A"
+  },
+  {
+    "task_id": "path_labels_on_route_066",
+    "image_path": "images/path_labels_on_route_0066.png",
+    "difficulty": "hard",
+    "distance": 19,
+    "grid_size": 10,
+    "start": [
+      0,
+      1
+    ],
+    "goal": [
+      9,
+      5
+    ],
+    "labeled_points": {
+      "D": [
+        4,
+        0
+      ],
+      "E": [
+        6,
+        4
+      ],
+      "A": [
+        8,
+        7
+      ],
+      "C": [
+        8,
+        5
+      ],
+      "B": [
+        0,
+        2
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "E",
+      "A"
+    ],
+    "answer_path": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        5
+      ]
+    ],
+    "answer": "D,E,A"
+  },
+  {
+    "task_id": "path_labels_on_route_067",
+    "image_path": "images/path_labels_on_route_0067.png",
+    "difficulty": "hard",
+    "distance": 22,
+    "grid_size": 10,
+    "start": [
+      0,
+      1
+    ],
+    "goal": [
+      7,
+      6
+    ],
+    "labeled_points": {
+      "B": [
+        3,
+        1
+      ],
+      "A": [
+        8,
+        0
+      ],
+      "C": [
+        7,
+        3
+      ],
+      "D": [
+        8,
+        6
+      ],
+      "E": [
+        6,
+        7
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "A",
+      "C"
+    ],
+    "answer_path": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ]
+    ],
+    "answer": "B,A,C"
+  },
+  {
+    "task_id": "path_labels_on_route_068",
+    "image_path": "images/path_labels_on_route_0068.png",
+    "difficulty": "hard",
+    "distance": 22,
+    "grid_size": 10,
+    "start": [
+      6,
+      9
+    ],
+    "goal": [
+      3,
+      8
+    ],
+    "labeled_points": {
+      "D": [
+        9,
+        7
+      ],
+      "C": [
+        7,
+        4
+      ],
+      "B": [
+        6,
+        6
+      ],
+      "A": [
+        2,
+        8
+      ],
+      "E": [
+        4,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "C",
+      "B"
+    ],
+    "answer_path": [
+      [
+        6,
+        9
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        3,
+        8
+      ]
+    ],
+    "answer": "D,C,B"
+  },
+  {
+    "task_id": "path_labels_on_route_069",
+    "image_path": "images/path_labels_on_route_0069.png",
+    "difficulty": "hard",
+    "distance": 21,
+    "grid_size": 10,
+    "start": [
+      2,
+      8
+    ],
+    "goal": [
+      5,
+      0
+    ],
+    "labeled_points": {
+      "C": [
+        6,
+        9
+      ],
+      "D": [
+        9,
+        6
+      ],
+      "A": [
+        7,
+        4
+      ],
+      "B": [
+        6,
+        0
+      ],
+      "E": [
+        4,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "D",
+      "A"
+    ],
+    "answer_path": [
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        0
+      ]
+    ],
+    "answer": "C,D,A"
+  },
+  {
+    "task_id": "path_labels_on_route_070",
+    "image_path": "images/path_labels_on_route_0070.png",
+    "difficulty": "hard",
+    "distance": 25,
+    "grid_size": 10,
+    "start": [
+      2,
+      7
+    ],
+    "goal": [
+      8,
+      0
+    ],
+    "labeled_points": {
+      "A": [
+        0,
+        4
+      ],
+      "D": [
+        3,
+        0
+      ],
+      "C": [
+        8,
+        3
+      ],
+      "E": [
+        9,
+        4
+      ],
+      "B": [
+        6,
+        3
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "D",
+      "C"
+    ],
+    "answer_path": [
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        8,
+        0
+      ]
+    ],
+    "answer": "A,D,C"
+  },
+  {
+    "task_id": "path_labels_on_route_071",
+    "image_path": "images/path_labels_on_route_0071.png",
+    "difficulty": "hard",
+    "distance": 21,
+    "grid_size": 10,
+    "start": [
+      1,
+      8
+    ],
+    "goal": [
+      8,
+      0
+    ],
+    "labeled_points": {
+      "C": [
+        1,
+        5
+      ],
+      "B": [
+        1,
+        1
+      ],
+      "A": [
+        6,
+        0
+      ],
+      "E": [
+        9,
+        0
+      ],
+      "D": [
+        8,
+        2
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "B",
+      "A"
+    ],
+    "answer_path": [
+      [
+        1,
+        8
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        0
+      ]
+    ],
+    "answer": "C,B,A"
+  },
+  {
+    "task_id": "path_labels_on_route_072",
+    "image_path": "images/path_labels_on_route_0072.png",
+    "difficulty": "hard",
+    "distance": 20,
+    "grid_size": 10,
+    "start": [
+      9,
+      0
+    ],
+    "goal": [
+      0,
+      5
+    ],
+    "labeled_points": {
+      "B": [
+        5,
+        1
+      ],
+      "A": [
+        0,
+        0
+      ],
+      "D": [
+        2,
+        3
+      ],
+      "C": [
+        0,
+        6
+      ],
+      "E": [
+        0,
+        3
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "A",
+      "D"
+    ],
+    "answer_path": [
+      [
+        9,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        0,
+        5
+      ]
+    ],
+    "answer": "B,A,D"
+  },
+  {
+    "task_id": "path_labels_on_route_073",
+    "image_path": "images/path_labels_on_route_0073.png",
+    "difficulty": "hard",
+    "distance": 20,
+    "grid_size": 10,
+    "start": [
+      2,
+      0
+    ],
+    "goal": [
+      9,
+      7
+    ],
+    "labeled_points": {
+      "E": [
+        4,
+        2
+      ],
+      "B": [
+        8,
+        3
+      ],
+      "A": [
+        6,
+        5
+      ],
+      "C": [
+        9,
+        8
+      ],
+      "D": [
+        5,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "B",
+      "A"
+    ],
+    "answer_path": [
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ]
+    ],
+    "answer": "E,B,A"
+  },
+  {
+    "task_id": "path_labels_on_route_074",
+    "image_path": "images/path_labels_on_route_0074.png",
+    "difficulty": "hard",
+    "distance": 20,
+    "grid_size": 10,
+    "start": [
+      8,
+      9
+    ],
+    "goal": [
+      3,
+      2
+    ],
+    "labeled_points": {
+      "A": [
+        7,
+        6
+      ],
+      "D": [
+        7,
+        3
+      ],
+      "E": [
+        5,
+        0
+      ],
+      "C": [
+        2,
+        2
+      ],
+      "B": [
+        8,
+        5
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "D",
+      "E"
+    ],
+    "answer_path": [
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "answer": "A,D,E"
+  },
+  {
+    "task_id": "path_labels_on_route_075",
+    "image_path": "images/path_labels_on_route_0075.png",
+    "difficulty": "hard",
+    "distance": 25,
+    "grid_size": 10,
+    "start": [
+      9,
+      9
+    ],
+    "goal": [
+      6,
+      1
+    ],
+    "labeled_points": {
+      "A": [
+        5,
+        9
+      ],
+      "E": [
+        1,
+        5
+      ],
+      "B": [
+        4,
+        4
+      ],
+      "C": [
+        7,
+        1
+      ],
+      "D": [
+        1,
+        2
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "E",
+      "B"
+    ],
+    "answer_path": [
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "answer": "A,E,B"
+  },
+  {
+    "task_id": "path_labels_on_route_076",
+    "image_path": "images/path_labels_on_route_0076.png",
+    "difficulty": "hard",
+    "distance": 23,
+    "grid_size": 10,
+    "start": [
+      9,
+      5
+    ],
+    "goal": [
+      5,
+      2
+    ],
+    "labeled_points": {
+      "E": [
+        7,
+        8
+      ],
+      "D": [
+        7,
+        3
+      ],
+      "B": [
+        7,
+        0
+      ],
+      "A": [
+        4,
+        2
+      ],
+      "C": [
+        5,
+        8
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "D",
+      "B"
+    ],
+    "answer_path": [
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        5,
+        2
+      ]
+    ],
+    "answer": "E,D,B"
+  },
+  {
+    "task_id": "path_labels_on_route_077",
+    "image_path": "images/path_labels_on_route_0077.png",
+    "difficulty": "hard",
+    "distance": 23,
+    "grid_size": 10,
+    "start": [
+      0,
+      0
+    ],
+    "goal": [
+      9,
+      8
+    ],
+    "labeled_points": {
+      "A": [
+        4,
+        2
+      ],
+      "E": [
+        8,
+        0
+      ],
+      "B": [
+        8,
+        4
+      ],
+      "C": [
+        8,
+        8
+      ],
+      "D": [
+        9,
+        9
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "E",
+      "B"
+    ],
+    "answer_path": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        8
+      ]
+    ],
+    "answer": "A,E,B"
+  },
+  {
+    "task_id": "path_labels_on_route_078",
+    "image_path": "images/path_labels_on_route_0078.png",
+    "difficulty": "hard",
+    "distance": 24,
+    "grid_size": 10,
+    "start": [
+      9,
+      2
+    ],
+    "goal": [
+      0,
+      7
+    ],
+    "labeled_points": {
+      "C": [
+        6,
+        2
+      ],
+      "B": [
+        1,
+        0
+      ],
+      "D": [
+        0,
+        4
+      ],
+      "A": [
+        0,
+        8
+      ],
+      "E": [
+        2,
+        3
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "B",
+      "D"
+    ],
+    "answer_path": [
+      [
+        9,
+        2
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        0,
+        7
+      ]
+    ],
+    "answer": "C,B,D"
+  },
+  {
+    "task_id": "path_labels_on_route_079",
+    "image_path": "images/path_labels_on_route_0079.png",
+    "difficulty": "hard",
+    "distance": 24,
+    "grid_size": 10,
+    "start": [
+      0,
+      0
+    ],
+    "goal": [
+      6,
+      8
+    ],
+    "labeled_points": {
+      "D": [
+        3,
+        0
+      ],
+      "E": [
+        6,
+        3
+      ],
+      "B": [
+        3,
+        7
+      ],
+      "A": [
+        6,
+        7
+      ],
+      "C": [
+        6,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "E",
+      "B"
+    ],
+    "answer_path": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ]
+    ],
+    "answer": "D,E,B"
+  },
+  {
+    "task_id": "path_labels_on_route_080",
+    "image_path": "images/path_labels_on_route_0080.png",
+    "difficulty": "hard",
+    "distance": 22,
+    "grid_size": 10,
+    "start": [
+      1,
+      6
+    ],
+    "goal": [
+      9,
+      2
+    ],
+    "labeled_points": {
+      "E": [
+        2,
+        8
+      ],
+      "C": [
+        7,
+        9
+      ],
+      "B": [
+        8,
+        7
+      ],
+      "A": [
+        9,
+        1
+      ],
+      "D": [
+        0,
+        5
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "C",
+      "B"
+    ],
+    "answer_path": [
+      [
+        1,
+        6
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        2
+      ]
+    ],
+    "answer": "E,C,B"
+  },
+  {
+    "task_id": "path_labels_on_route_081",
+    "image_path": "images/path_labels_on_route_0081.png",
+    "difficulty": "hard",
+    "distance": 19,
+    "grid_size": 10,
+    "start": [
+      2,
+      9
+    ],
+    "goal": [
+      9,
+      3
+    ],
+    "labeled_points": {
+      "C": [
+        4,
+        7
+      ],
+      "E": [
+        6,
+        3
+      ],
+      "D": [
+        6,
+        1
+      ],
+      "B": [
+        9,
+        4
+      ],
+      "A": [
+        7,
+        2
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "E",
+      "D"
+    ],
+    "answer_path": [
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ]
+    ],
+    "answer": "C,E,D"
+  },
+  {
+    "task_id": "path_labels_on_route_082",
+    "image_path": "images/path_labels_on_route_0082.png",
+    "difficulty": "hard",
+    "distance": 25,
+    "grid_size": 10,
+    "start": [
+      0,
+      9
+    ],
+    "goal": [
+      8,
+      0
+    ],
+    "labeled_points": {
+      "E": [
+        0,
+        5
+      ],
+      "A": [
+        1,
+        0
+      ],
+      "B": [
+        5,
+        3
+      ],
+      "D": [
+        7,
+        0
+      ],
+      "C": [
+        9,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "A",
+      "B"
+    ],
+    "answer_path": [
+      [
+        0,
+        9
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        0
+      ]
+    ],
+    "answer": "E,A,B"
+  },
+  {
+    "task_id": "path_labels_on_route_083",
+    "image_path": "images/path_labels_on_route_0083.png",
+    "difficulty": "hard",
+    "distance": 25,
+    "grid_size": 10,
+    "start": [
+      7,
+      1
+    ],
+    "goal": [
+      6,
+      9
+    ],
+    "labeled_points": {
+      "D": [
+        3,
+        0
+      ],
+      "B": [
+        0,
+        4
+      ],
+      "E": [
+        1,
+        7
+      ],
+      "C": [
+        7,
+        9
+      ],
+      "A": [
+        2,
+        9
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "B",
+      "E"
+    ],
+    "answer_path": [
+      [
+        7,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "answer": "D,B,E"
+  },
+  {
+    "task_id": "path_labels_on_route_084",
+    "image_path": "images/path_labels_on_route_0084.png",
+    "difficulty": "hard",
+    "distance": 25,
+    "grid_size": 10,
+    "start": [
+      6,
+      1
+    ],
+    "goal": [
+      0,
+      8
+    ],
+    "labeled_points": {
+      "C": [
+        9,
+        3
+      ],
+      "D": [
+        7,
+        6
+      ],
+      "B": [
+        3,
+        5
+      ],
+      "E": [
+        0,
+        9
+      ],
+      "A": [
+        0,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "D",
+      "B"
+    ],
+    "answer_path": [
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        0,
+        8
+      ]
+    ],
+    "answer": "C,D,B"
+  },
+  {
+    "task_id": "path_labels_on_route_085",
+    "image_path": "images/path_labels_on_route_0085.png",
+    "difficulty": "hard",
+    "distance": 24,
+    "grid_size": 10,
+    "start": [
+      8,
+      5
+    ],
+    "goal": [
+      6,
+      9
+    ],
+    "labeled_points": {
+      "D": [
+        4,
+        5
+      ],
+      "E": [
+        1,
+        7
+      ],
+      "B": [
+        4,
+        8
+      ],
+      "A": [
+        5,
+        9
+      ],
+      "C": [
+        7,
+        9
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "E",
+      "B"
+    ],
+    "answer_path": [
+      [
+        8,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        9
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "answer": "D,E,B"
+  },
+  {
+    "task_id": "path_labels_on_route_086",
+    "image_path": "images/path_labels_on_route_0086.png",
+    "difficulty": "hard",
+    "distance": 23,
+    "grid_size": 10,
+    "start": [
+      3,
+      9
+    ],
+    "goal": [
+      8,
+      3
+    ],
+    "labeled_points": {
+      "D": [
+        0,
+        7
+      ],
+      "C": [
+        3,
+        3
+      ],
+      "E": [
+        6,
+        1
+      ],
+      "B": [
+        9,
+        3
+      ],
+      "A": [
+        3,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "C",
+      "E"
+    ],
+    "answer_path": [
+      [
+        3,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        3
+      ]
+    ],
+    "answer": "D,C,E"
+  },
+  {
+    "task_id": "path_labels_on_route_087",
+    "image_path": "images/path_labels_on_route_0087.png",
+    "difficulty": "hard",
+    "distance": 21,
+    "grid_size": 10,
+    "start": [
+      2,
+      2
+    ],
+    "goal": [
+      8,
+      7
+    ],
+    "labeled_points": {
+      "E": [
+        5,
+        1
+      ],
+      "D": [
+        4,
+        5
+      ],
+      "B": [
+        8,
+        4
+      ],
+      "A": [
+        9,
+        3
+      ],
+      "C": [
+        6,
+        3
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "D",
+      "B"
+    ],
+    "answer_path": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        7
+      ]
+    ],
+    "answer": "E,D,B"
+  },
+  {
+    "task_id": "path_labels_on_route_088",
+    "image_path": "images/path_labels_on_route_0088.png",
+    "difficulty": "hard",
+    "distance": 20,
+    "grid_size": 10,
+    "start": [
+      0,
+      5
+    ],
+    "goal": [
+      5,
+      0
+    ],
+    "labeled_points": {
+      "A": [
+        2,
+        8
+      ],
+      "E": [
+        5,
+        5
+      ],
+      "C": [
+        3,
+        2
+      ],
+      "B": [
+        6,
+        0
+      ],
+      "D": [
+        2,
+        2
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "E",
+      "C"
+    ],
+    "answer_path": [
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ]
+    ],
+    "answer": "A,E,C"
+  },
+  {
+    "task_id": "path_labels_on_route_089",
+    "image_path": "images/path_labels_on_route_0089.png",
+    "difficulty": "hard",
+    "distance": 22,
+    "grid_size": 10,
+    "start": [
+      6,
+      7
+    ],
+    "goal": [
+      0,
+      1
+    ],
+    "labeled_points": {
+      "E": [
+        9,
+        4
+      ],
+      "B": [
+        6,
+        1
+      ],
+      "D": [
+        3,
+        1
+      ],
+      "C": [
+        0,
+        2
+      ],
+      "A": [
+        2,
+        2
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "B",
+      "D"
+    ],
+    "answer_path": [
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "answer": "E,B,D"
+  },
+  {
+    "task_id": "path_labels_on_route_090",
+    "image_path": "images/path_labels_on_route_0090.png",
+    "difficulty": "hard",
+    "distance": 19,
+    "grid_size": 10,
+    "start": [
+      1,
+      5
+    ],
+    "goal": [
+      9,
+      6
+    ],
+    "labeled_points": {
+      "D": [
+        2,
+        8
+      ],
+      "A": [
+        5,
+        6
+      ],
+      "C": [
+        8,
+        4
+      ],
+      "E": [
+        9,
+        7
+      ],
+      "B": [
+        8,
+        6
+      ]
+    },
+    "on_path_labels": [
+      "D",
+      "A",
+      "C"
+    ],
+    "answer_path": [
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        6
+      ]
+    ],
+    "answer": "D,A,C"
+  },
+  {
+    "task_id": "path_labels_on_route_091",
+    "image_path": "images/path_labels_on_route_0091.png",
+    "difficulty": "hard",
+    "distance": 24,
+    "grid_size": 10,
+    "start": [
+      2,
+      4
+    ],
+    "goal": [
+      9,
+      7
+    ],
+    "labeled_points": {
+      "A": [
+        0,
+        1
+      ],
+      "E": [
+        7,
+        0
+      ],
+      "D": [
+        7,
+        4
+      ],
+      "C": [
+        9,
+        8
+      ],
+      "B": [
+        9,
+        4
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "E",
+      "D"
+    ],
+    "answer_path": [
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        7
+      ]
+    ],
+    "answer": "A,E,D"
+  },
+  {
+    "task_id": "path_labels_on_route_092",
+    "image_path": "images/path_labels_on_route_0092.png",
+    "difficulty": "hard",
+    "distance": 23,
+    "grid_size": 10,
+    "start": [
+      4,
+      8
+    ],
+    "goal": [
+      9,
+      2
+    ],
+    "labeled_points": {
+      "B": [
+        0,
+        6
+      ],
+      "D": [
+        2,
+        3
+      ],
+      "C": [
+        7,
+        0
+      ],
+      "E": [
+        9,
+        3
+      ],
+      "A": [
+        4,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "D",
+      "C"
+    ],
+    "answer_path": [
+      [
+        4,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        2
+      ]
+    ],
+    "answer": "B,D,C"
+  },
+  {
+    "task_id": "path_labels_on_route_093",
+    "image_path": "images/path_labels_on_route_0093.png",
+    "difficulty": "hard",
+    "distance": 20,
+    "grid_size": 10,
+    "start": [
+      0,
+      2
+    ],
+    "goal": [
+      8,
+      4
+    ],
+    "labeled_points": {
+      "C": [
+        2,
+        2
+      ],
+      "A": [
+        5,
+        5
+      ],
+      "E": [
+        6,
+        6
+      ],
+      "D": [
+        9,
+        4
+      ],
+      "B": [
+        6,
+        4
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "A",
+      "E"
+    ],
+    "answer_path": [
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        4
+      ]
+    ],
+    "answer": "C,A,E"
+  },
+  {
+    "task_id": "path_labels_on_route_094",
+    "image_path": "images/path_labels_on_route_0094.png",
+    "difficulty": "hard",
+    "distance": 19,
+    "grid_size": 10,
+    "start": [
+      5,
+      0
+    ],
+    "goal": [
+      4,
+      8
+    ],
+    "labeled_points": {
+      "B": [
+        8,
+        2
+      ],
+      "D": [
+        9,
+        5
+      ],
+      "C": [
+        7,
+        9
+      ],
+      "A": [
+        5,
+        7
+      ],
+      "E": [
+        6,
+        3
+      ]
+    },
+    "on_path_labels": [
+      "B",
+      "D",
+      "C"
+    ],
+    "answer_path": [
+      [
+        5,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "answer": "B,D,C"
+  },
+  {
+    "task_id": "path_labels_on_route_095",
+    "image_path": "images/path_labels_on_route_0095.png",
+    "difficulty": "hard",
+    "distance": 18,
+    "grid_size": 10,
+    "start": [
+      0,
+      8
+    ],
+    "goal": [
+      4,
+      0
+    ],
+    "labeled_points": {
+      "A": [
+        3,
+        6
+      ],
+      "C": [
+        5,
+        4
+      ],
+      "E": [
+        7,
+        2
+      ],
+      "B": [
+        3,
+        0
+      ],
+      "D": [
+        7,
+        0
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "C",
+      "E"
+    ],
+    "answer_path": [
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "answer": "A,C,E"
+  },
+  {
+    "task_id": "path_labels_on_route_096",
+    "image_path": "images/path_labels_on_route_0096.png",
+    "difficulty": "hard",
+    "distance": 18,
+    "grid_size": 10,
+    "start": [
+      6,
+      8
+    ],
+    "goal": [
+      2,
+      2
+    ],
+    "labeled_points": {
+      "C": [
+        9,
+        8
+      ],
+      "B": [
+        8,
+        6
+      ],
+      "A": [
+        5,
+        3
+      ],
+      "E": [
+        1,
+        2
+      ],
+      "D": [
+        7,
+        3
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "B",
+      "A"
+    ],
+    "answer_path": [
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "answer": "C,B,A"
+  },
+  {
+    "task_id": "path_labels_on_route_097",
+    "image_path": "images/path_labels_on_route_0097.png",
+    "difficulty": "hard",
+    "distance": 19,
+    "grid_size": 10,
+    "start": [
+      0,
+      1
+    ],
+    "goal": [
+      9,
+      9
+    ],
+    "labeled_points": {
+      "E": [
+        0,
+        5
+      ],
+      "A": [
+        3,
+        6
+      ],
+      "D": [
+        6,
+        9
+      ],
+      "C": [
+        9,
+        8
+      ],
+      "B": [
+        6,
+        7
+      ]
+    },
+    "on_path_labels": [
+      "E",
+      "A",
+      "D"
+    ],
+    "answer_path": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        9
+      ]
+    ],
+    "answer": "E,A,D"
+  },
+  {
+    "task_id": "path_labels_on_route_098",
+    "image_path": "images/path_labels_on_route_0098.png",
+    "difficulty": "hard",
+    "distance": 21,
+    "grid_size": 10,
+    "start": [
+      6,
+      1
+    ],
+    "goal": [
+      7,
+      9
+    ],
+    "labeled_points": {
+      "C": [
+        3,
+        1
+      ],
+      "B": [
+        6,
+        3
+      ],
+      "E": [
+        9,
+        5
+      ],
+      "D": [
+        6,
+        9
+      ],
+      "A": [
+        7,
+        1
+      ]
+    },
+    "on_path_labels": [
+      "C",
+      "B",
+      "E"
+    ],
+    "answer_path": [
+      [
+        6,
+        1
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        7,
+        9
+      ]
+    ],
+    "answer": "C,B,E"
+  },
+  {
+    "task_id": "path_labels_on_route_099",
+    "image_path": "images/path_labels_on_route_0099.png",
+    "difficulty": "hard",
+    "distance": 21,
+    "grid_size": 10,
+    "start": [
+      9,
+      5
+    ],
+    "goal": [
+      1,
+      2
+    ],
+    "labeled_points": {
+      "A": [
+        6,
+        7
+      ],
+      "C": [
+        4,
+        6
+      ],
+      "E": [
+        2,
+        4
+      ],
+      "D": [
+        0,
+        1
+      ],
+      "B": [
+        3,
+        9
+      ]
+    },
+    "on_path_labels": [
+      "A",
+      "C",
+      "E"
+    ],
+    "answer_path": [
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "answer": "A,C,E"
+  }
+]

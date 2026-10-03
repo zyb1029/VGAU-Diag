@@ -1,0 +1,6 @@
+include: onet.yaml
+task: "onet_cot"
+lmms_eval_specific_kwargs:
+  default:
+    onet_prompt_mode: cot
+    onet_image_root: ./data/onet

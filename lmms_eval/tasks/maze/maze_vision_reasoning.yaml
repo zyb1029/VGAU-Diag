@@ -1,0 +1,6 @@
+include: maze_cot.yaml
+task: "maze_vision_reasoning"
+lmms_eval_specific_kwargs:
+  default:
+    maze_prompt_mode: vision_reasoning
+    maze_image_root: ./data/maze

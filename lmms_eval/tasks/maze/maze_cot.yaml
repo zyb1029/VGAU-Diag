@@ -1,0 +1,6 @@
+include: maze_aux.yaml
+task: "maze_cot"
+lmms_eval_specific_kwargs:
+  default:
+    maze_prompt_mode: cot
+    maze_image_root: ./data/maze

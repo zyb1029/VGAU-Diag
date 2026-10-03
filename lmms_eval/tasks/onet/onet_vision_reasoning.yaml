@@ -1,0 +1,6 @@
+include: onet_cot.yaml
+task: "onet_vision_reasoning"
+lmms_eval_specific_kwargs:
+  default:
+    onet_prompt_mode: vision_reasoning
+    onet_image_root: ./data/onet

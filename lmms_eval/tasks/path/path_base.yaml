@@ -1,0 +1,34 @@
+dataset_path: json
+dataset_kwargs:
+  data_files: ./data/path/dataset_manifest.json
+test_split: train
+output_type: generate_until
+
+doc_to_visual: !function utils.path_doc_to_visual
+doc_to_text: !function utils.path_doc_to_text
+doc_to_target: "answer"
+
+process_results: !function utils.path_process_results
+
+generation_kwargs:
+  max_new_tokens: 8192
+  do_sample: false
+  temperature: 0.0
+
+metric_list:
+  - metric: path_easy_acc
+    aggregation: !function utils.path_agg_acc
+    higher_is_better: true
+  - metric: path_middle_acc
+    aggregation: !function utils.path_agg_acc
+    higher_is_better: true
+  - metric: path_hard_acc
+    aggregation: !function utils.path_agg_acc
+    higher_is_better: true
+  - metric: path_overall_acc
+    aggregation: !function utils.path_agg_acc
+    higher_is_better: true
+
+metadata:
+  version: 1.0
+  num_samples: 100

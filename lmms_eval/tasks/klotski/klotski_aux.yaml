@@ -1,0 +1,6 @@
+include: klotski_base.yaml
+task: "klotski_aux"
+lmms_eval_specific_kwargs:
+  default:
+    klotski_prompt_mode: aux
+    klotski_image_root: ./data/klotski
